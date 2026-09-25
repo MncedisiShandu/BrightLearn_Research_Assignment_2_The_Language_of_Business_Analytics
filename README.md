@@ -1,0 +1,2 @@
+# BrightLearn_Research_Assignment_2_The_Language_of_Business_Analytics
+The Language of Business Analytics
